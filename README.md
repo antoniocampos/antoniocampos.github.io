@@ -1,4 +1,7 @@
 ## Welcome to my GitHub Page
 # My name is António Campos and i'm a developer from portugal
-If you want to hire me, feel free to get in touch!
-Visit my [blog](https://antoniocampos.net)
+[Github](https://github.com/antoniocampos)
+[Follow my blog](https://antoniocampos.net)
+[Facebook](https://www.facebook.com/jantoniofcampos)
+[Linkedin](https://www.linkedin.com/in/antoniocampos/)
+[stackoverflow](https://stackoverflow.com/users/953215/ant%C3%B3nio-campos)
